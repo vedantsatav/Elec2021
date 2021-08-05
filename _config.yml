@@ -1,7 +1,7 @@
 # Site
 name: "Electrical Engineering IITB Batch of 2021"
 title: "Batch Website"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "An amalgamation of four-years of memory made together at the most-BT Department of all! "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: vedantsatav.github.io
@@ -22,14 +22,14 @@ authors:
     email: vedantanilsatav@gmail.com
     web: https://vedantsatav.github.io/about
     twitter: https://twitter.com/VedantSatav1
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "Forever CR, part-time DGSec. Drama, Doggo and Drive to Survive."
   john:
     name: Syomantak Chaudhuri
     display_name: Syomantak    
     avatar: 'assets/images/avatar.png'
     email: syomantak.c@gmail.com
     web: https://www.sites.google.com/view/syomantak
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    description: "The guy with the most, and the least, power simulataneoulsy. Closeted creep."
 
 # Plugins
 plugins:
