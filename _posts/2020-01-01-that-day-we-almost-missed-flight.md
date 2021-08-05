@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "That day when we almost missed our flight"
+title:  "I am having hardtime captioning now"
 author: sal
 categories: [ Travel, Lifestyle ]
 image: assets/images/walk.jpg

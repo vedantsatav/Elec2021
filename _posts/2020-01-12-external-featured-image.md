@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Memoirs supports external images as featured"
+title:  "Cringe group pic at the beach? Tick!"
 author: sal
 categories: [ Lifestyle, Travel ]
 tags: [ France ]

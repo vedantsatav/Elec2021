@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Observer - National Gallery of Art, Washington, United States"
+title:  "Rolling into your DMs like Jassu"
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/wheel.JPG
