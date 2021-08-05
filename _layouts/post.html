@@ -32,7 +32,7 @@ post_class: post-template
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.adsense == "enabled" %}
-    {% include adsense-under-header.html %}
+    <!-- {% include adsense-under-header.html %} -->
 {% endif %}
 
 <!-- Featured Image -->
@@ -44,7 +44,7 @@ post_class: post-template
 <!-- Rating -->
 {% if page.rating %}
 <div class="rating mt-4 mb-4 d-flex align-items-center">
-    <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
+    <!--<strong class="mr-1">Rating:</strong> {% include star_rating.html %} -->
 </div>
 {% endif %}
 
@@ -52,7 +52,7 @@ post_class: post-template
 {% include author-box.html %}
 
 <!-- Comments if not disabled with comments: false -->
-{% include comments.html %}
+<!-- {% include comments.html %} -->
 
 <!-- Share -->
 {% include share.html %}
