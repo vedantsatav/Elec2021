@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Find Geo-locations of your batchmates
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: 
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+We have collected the location information of all the students belonging to the Batch of 2021, Electrical Engineering IIT Bombay. You can refer to the below map to find the location of your colleagues.
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+We hope you spot your batchmates. Have an  awesome time! :)
+
+<iframe src="https://www.geosheets.com/map/s:o6nwxKAw/EE-17-Folks/embed" style="border:none;width:640px;height:480px"></iframe>
+
+
 
