@@ -7,7 +7,4 @@ tags: [ Insti ]
 image: assets/images/2.jpg
 rating: 4.5
 ---
-
-Who knew that we would still be "discovering" insti in the last few days we got to spend there. Jayesh, Pranjal and Vedant "discovered" IDC on our quest for its famous white pasta, which itself turned out to be a disappointment.
-
-Also, do not miss the awesome IDC Canteen, rightly called as "Descafe" :)
+The only trip worth remembering
